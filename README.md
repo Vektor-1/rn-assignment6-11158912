@@ -37,7 +37,7 @@ Screenshots
 
 How to Run the App
 1. Clone the Repository:
-git clone https://github.com/yourusername/myshoppingapp.git
+git clone [https://github.com/yourusername/myshoppingapp.git](https://github.com/Vektor-1/rn-assignment6-11158912)
 
 2. Install Dependencies:
 cd my-app
