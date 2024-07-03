@@ -81,7 +81,8 @@ const styles = StyleSheet.create({
         flexDirection: 'row',
         justifyContent:'space-between',
         alignItems: 'center',
-        paddingVertical: 20,
+        paddingTop: 15,
+        paddingBottom: 10,
     },
     logoContainer: {
         flexDirection: 'row',
