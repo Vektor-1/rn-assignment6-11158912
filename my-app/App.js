@@ -22,14 +22,14 @@ export default function App() {
                         name="Checkout"
                         component={Checkout}
                         options={({ navigation }) => ({
-                            headerShown: false,  // Show the header for Checkout screen
+                            headerShown: false,
                             headerLeft: () => (
                                 <MaterialIcons
                                     name='arrow-back'
                                     size={24}
                                     color='black'
                                     onPress={() => navigation.goBack()}
-                                    style={{ marginLeft: 15 }} // Add margin to align the icon
+                                    style={{ marginLeft: 15 }}
                                 />
                             ),
                             headerTitle: 'Checkout',
